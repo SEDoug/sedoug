@@ -1,8 +1,6 @@
 #### Hey, I'm Doug MacGregor - no aka just a regular guy [SEDoug][website] 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Doug_Mac_Gregor?color=1DA1F2&logo=twitter&style=for-the-badge)
-
- #### Creative Thinker ‣ Life-Long Tinker-er ‣ Husband & Father ‣ Spirited Chef @chefdougiemac
+#### Creative Thinker ‣ Life-Long Tinker-er ‣ Husband & Father ‣ Spirited Chef @chefdougiemac
 
 ---
 
