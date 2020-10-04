@@ -12,7 +12,6 @@
 
 <br />
 
-https://badges.pufler.dev/commits/{periodicity}/{username}
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
 
 ### Languages and Tools:
