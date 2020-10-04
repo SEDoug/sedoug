@@ -1,4 +1,4 @@
-#### Hey, I'm Doug MacGregor - just a r3gul@r guy [SEDoug][website]👋
+#### Hey, I'm Doug MacGregor - just a guy [SEDoug][website]👋
 
 #### Creative Thinker ‣ Life-Long Tinker-er ‣ Husband & Father ‣ Spirited Chef @chefdougiemac
 
