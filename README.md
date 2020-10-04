@@ -9,7 +9,8 @@
 [<img align="left" alt="doug-macgregor.webflow.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Doug_Mac_Gregor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="sedoug | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sedoug | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />][linkedin]
+[<img align="left" alt="sedoug | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />][docker]
+[<img align="left" alt="sedoug | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/burp.svg" />][burp]
 
 <br />
 
@@ -28,6 +29,8 @@
 [website]: https://doug-macgregor.webflow.io
 [twitter]: https://twitter.com/Doug_Mac_Gregor
 [linkedin]: https://linkedin.com/in/sedoug
+[docker]: https://hub.docker.com/u/sedoug
+[burp]: https://portswigger.net/users/doug.macgregor@gmail.com
 
 <!--
 **SEDoug/sedoug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
