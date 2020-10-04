@@ -2,9 +2,6 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Doug_Mac_Gregor?color=1DA1F2&logo=twitter&style=for-the-badge)
 
-![](https://raw.githubusercontent.com/sedoug/github-stats/master/generated/overview.svg) 
-![](https://raw.githubusercontent.com/sedoug/github-stats/master/generated/languages.svg)
- 
  #### Creative Thinker ‣ Life-Long Tinker-er ‣ Husband & Father ‣ Spirited Chef @chefdougiemac
 
 ---
