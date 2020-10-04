@@ -10,6 +10,7 @@
 [<img align="left" alt="sedoug | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />][docker]
 
 [![Commits Badge](https://badges.pufler.dev/commits/daily/sedoug)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/sedoug)](https://badges.pufler.dev)
 
 <br />
 
