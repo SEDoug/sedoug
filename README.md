@@ -1,4 +1,4 @@
-#### Hey, I'm Doug MacGregor - no aka just a regular guy [SEDoug][website] 👋
+#### Hey, I'm Doug MacGregor - just a r3gul@r guy [SEDoug]<!---[website] ---> 👋
 
 #### Creative Thinker ‣ Life-Long Tinker-er ‣ Husband & Father ‣ Spirited Chef @chefdougiemac
 
@@ -23,7 +23,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-[website]: https://doug-macgregor.webflow.io
+<!---[website]: https://doug-macgregor.webflow.io --->
 [twitter]: https://twitter.com/Doug_Mac_Gregor
 [linkedin]: https://linkedin.com/in/sedoug
 [docker]: https://hub.docker.com/u/sedoug
