@@ -8,6 +8,7 @@
 [<img align="left" alt="Doug_Mac_Gregor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="sedoug | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sedoug | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />][docker]
+
 <br />
 
 [![Commits Badge](https://badges.pufler.dev/commits/all/sedoug)](https://badges.pufler.dev)
@@ -16,6 +17,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/sedoug)](https://badges.pufler.dev)
 
 ### Languages and Tools:
+[<img align="left" alt="Burp Suite Pro" width="22px" src="https://user-images.githubusercontent.com/3903554/95038636-3a6bc580-0694-11eb-8b62-f931b4fcc28c.jpg" />]
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="REACT" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/react.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
