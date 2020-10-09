@@ -12,6 +12,7 @@
 <p />
 
 [![Commits Badge](https://badges.pufler.dev/commits/all/sedoug)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/sedoug)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/sedoug)](https://badges.pufler.dev)
 
 ### Languages and Tools:
