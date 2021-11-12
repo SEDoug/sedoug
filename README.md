@@ -1,7 +1,7 @@
 #### Creative Thinker | Life-Long Tinker-er | ex-@USCG | CyberSec Enthusiast | Love My Family👋
 
-[![Commits Badge](https://badges.pufler.dev/commits/all/sedoug)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/sedoug)](https://badges.pufler.dev)
+<!--- [![Commits Badge](https://badges.pufler.dev/commits/all/sedoug)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/sedoug)](https://badges.pufler.dev) --->
 [![Years Badge](https://badges.pufler.dev/years/sedoug)](https://badges.pufler.dev)
 
 - 🦝️ LinkedIn: [Doug M](https://www.linkedin.com/in/sedoug/)
