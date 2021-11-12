@@ -6,7 +6,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/sedoug)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/sedoug)](https://badges.pufler.dev)
 
+- 🏢 LinkedIn: [Doug M] (https://linkedin.com/in/sedoug)
 - 🌎 Website: [https://dougmacgregor.io] (https://dougmacgregor.io)
 - 📦 Twitter: [https://twitter.com/Doug_Mac_Gregor] (https://twitter.com/Doug_Mac_Gregor)
-- 🏢 LinkedIn: [Doug M] (https://linkedin.com/in/sedoug)
 - 🐳 Docker: [https://hub.docker.com/u/sedoug] (https://hub.docker.com/u/sedoug)
