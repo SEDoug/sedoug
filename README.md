@@ -1,6 +1,6 @@
-#### I am nobody and I like to experience things [SEDoug][website]👋
+#### I am nobody and I like to experience things👋
 
-#### Creative Thinker ‣ Life-Long Tinker-er ‣
+#### Creative Thinker ‣ Life-Long Tinker-er
 
 [![Commits Badge](https://badges.pufler.dev/commits/all/sedoug)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/sedoug)](https://badges.pufler.dev)
