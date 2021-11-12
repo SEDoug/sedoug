@@ -1,20 +1,12 @@
-#### Hey, I'm Doug MacGregor - just a guy [SEDoug][website]👋
+#### I am nobody and I like to experience things [SEDoug][website]👋
 
 #### Creative Thinker ‣ Life-Long Tinker-er ‣
-
----
-
-[<img align="left" alt="Doug_Mac_Gregor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="sedoug | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sedoug | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />][docker]
-
-<p />
 
 [![Commits Badge](https://badges.pufler.dev/commits/all/sedoug)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/sedoug)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/sedoug)](https://badges.pufler.dev)
 
-[website]: https://dougmacgregor.io
+- 🌎 Website: [https://dougmacgregor.io] (https://dougmacgregor.io)
 [twitter]: https://twitter.com/Doug_Mac_Gregor
-[linkedin]: https://linkedin.com/in/sedoug
-[docker]: https://hub.docker.com/u/sedoug
+- 🏢 LinkedIn: [Doug M] (https://linkedin.com/in/sedoug)
+- 🐳 Docker: [https://hub.docker.com/u/sedoug] (https://hub.docker.com/u/sedoug)
